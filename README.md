@@ -1,3 +1,3 @@
 # Fobiri-Ebenezer.github.io
-Ghana Health Data Analysis
+Ghana Health Service Data Analysis
 Power BI Project
